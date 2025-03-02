@@ -6,6 +6,7 @@
 
 
 ✨ Descripción
+
 Este prototipo es un formulario de identificación personal que genera una tarjeta de presentación. Se utilizan diversos widgets de Flutter, como:
 
         ✅ Text.
@@ -13,11 +14,15 @@ Este prototipo es un formulario de identificación personal que genera una tarje
         ✅ TextField con iconos.
 
         ✅ ElevatedButton para capturar los datos y mostrarlos en pantalla.
+        
+        ✅ Card para mostrar los datos ingresados.
 
         ✅ "Lifting State Up" para gestionar el estado y compartir datos entre widgets.
 
+Se implementó una arquitectura modular, separando los componentes en distintos archivos para mejorar la reutilización del código.
 
 🛠️ Tecnologías utilizadas
+
 En este proyecto, hice uso de las siguientes tecnologías y paquetes:
 
         📌 Dart:io - Para manejo de archivos y operaciones de entrada/salida.
@@ -26,10 +31,8 @@ En este proyecto, hice uso de las siguientes tecnologías y paquetes:
 
         📷  Image_Picker - Para seleccionar imágenes desde la galería o la cámara.
 
-
-
-
+        
 📲 Vista previa
+
 (Aquí puedes agregar capturas de pantalla del prototipo en acción)
 
-¡Espero que este proyecto te ayude a dar tus primeros pasos con Flutter! 🚀🐦
