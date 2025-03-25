@@ -21,9 +21,11 @@ Este prototipo es un formulario de identificación personal que genera una tarje
 
 Se implementó una arquitectura modular, separando los componentes en distintos archivos para mejorar la reutilización del código.
 
-🛠️ Tecnologías utilizadas
+🛠️ Tecnologías utilizadas:
 
-En este proyecto, hice uso de las siguientes tecnologías y paquetes:
+En este proyecto, hice uso de Flutter (SDK) y Dart (lenguaje de programación).
+
+        Paquetes:
 
         📌 Dart:io - Para manejo de archivos y operaciones de entrada/salida.
 
@@ -35,4 +37,6 @@ En este proyecto, hice uso de las siguientes tecnologías y paquetes:
 📲 Vista previa
 
 (Aquí puedes agregar capturas de pantalla del prototipo en acción)
+
+💻Diego G. Barrionuevo(www.linkedin.com/in/diego-gabriel-barrionuevo-a17a42328)
 
